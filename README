@@ -1,0 +1,4 @@
+This model is designed to predict the final selling price of a given house sold in Ames, Idaho.
+https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview/description
+
+It uses a regression model, with ridge reduction.
